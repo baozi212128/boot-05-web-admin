@@ -12,6 +12,7 @@ public class Boot05WebAdminApplication {
         System.out.println("adfasdf2");
         System.out.println("adfasdf3");
         System.out.println("adfasdf4");
+        System.out.println("adfasdf5");
     }
 
 }
